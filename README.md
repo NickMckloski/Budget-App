@@ -1,3 +1,3 @@
 # Budget-App
 
-An app made to help visualize and manage budgets/expenses.
+An (unfinished)app made to help visualize and manage budgets/expenses.
